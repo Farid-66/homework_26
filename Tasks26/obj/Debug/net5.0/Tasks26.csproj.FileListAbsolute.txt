@@ -1,0 +1,16 @@
+C:\Users\DoctorCOMP\OneDrive\Рабочий стол\CodeAcademy\Tasks\Tasks26\Tasks26\obj\Debug\net5.0\Tasks26.csproj.AssemblyReference.cache
+C:\Users\DoctorCOMP\OneDrive\Рабочий стол\CodeAcademy\Tasks\Tasks26\Tasks26\obj\Debug\net5.0\Tasks26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DoctorCOMP\OneDrive\Рабочий стол\CodeAcademy\Tasks\Tasks26\Tasks26\obj\Debug\net5.0\Tasks26.AssemblyInfoInputs.cache
+C:\Users\DoctorCOMP\OneDrive\Рабочий стол\CodeAcademy\Tasks\Tasks26\Tasks26\obj\Debug\net5.0\Tasks26.AssemblyInfo.cs
+C:\Users\DoctorCOMP\OneDrive\Рабочий стол\CodeAcademy\Tasks\Tasks26\Tasks26\obj\Debug\net5.0\Tasks26.csproj.CoreCompileInputs.cache
+C:\Users\DoctorCOMP\OneDrive\Рабочий стол\CodeAcademy\Tasks\Tasks26\Tasks26\bin\Debug\net5.0\Tasks26.exe
+C:\Users\DoctorCOMP\OneDrive\Рабочий стол\CodeAcademy\Tasks\Tasks26\Tasks26\bin\Debug\net5.0\Tasks26.deps.json
+C:\Users\DoctorCOMP\OneDrive\Рабочий стол\CodeAcademy\Tasks\Tasks26\Tasks26\bin\Debug\net5.0\Tasks26.runtimeconfig.json
+C:\Users\DoctorCOMP\OneDrive\Рабочий стол\CodeAcademy\Tasks\Tasks26\Tasks26\bin\Debug\net5.0\Tasks26.runtimeconfig.dev.json
+C:\Users\DoctorCOMP\OneDrive\Рабочий стол\CodeAcademy\Tasks\Tasks26\Tasks26\bin\Debug\net5.0\Tasks26.dll
+C:\Users\DoctorCOMP\OneDrive\Рабочий стол\CodeAcademy\Tasks\Tasks26\Tasks26\bin\Debug\net5.0\ref\Tasks26.dll
+C:\Users\DoctorCOMP\OneDrive\Рабочий стол\CodeAcademy\Tasks\Tasks26\Tasks26\bin\Debug\net5.0\Tasks26.pdb
+C:\Users\DoctorCOMP\OneDrive\Рабочий стол\CodeAcademy\Tasks\Tasks26\Tasks26\obj\Debug\net5.0\Tasks26.dll
+C:\Users\DoctorCOMP\OneDrive\Рабочий стол\CodeAcademy\Tasks\Tasks26\Tasks26\obj\Debug\net5.0\ref\Tasks26.dll
+C:\Users\DoctorCOMP\OneDrive\Рабочий стол\CodeAcademy\Tasks\Tasks26\Tasks26\obj\Debug\net5.0\Tasks26.pdb
+C:\Users\DoctorCOMP\OneDrive\Рабочий стол\CodeAcademy\Tasks\Tasks26\Tasks26\obj\Debug\net5.0\Tasks26.genruntimeconfig.cache
